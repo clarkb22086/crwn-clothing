@@ -1,2 +1,20 @@
-{
-}
+/* {
+    "editor.defaultFormatter": "svipas.prettier-plus",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "svipas.prettier-plus"
+    },
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "none",
+    "prettier.eslintIntegration": true,
+    "explorer.compactFolders": false,
+    "omnisharp.enableEditorConfigSupport": false,
+    "prettier.tslintIntegration": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+} */
